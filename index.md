@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Good-plus/Good-plus.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人信息
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 姓名: 吴佳豪
+- 邮箱：good_plus@163.com
+- 专业：软件工程
+- 院校：江西财经大学 软件与物联网工程学院 
+- 个人博客网站：www.goodplus.top
 
-### Markdown
+### 最近学习
+- 深度学习：《深度学习入门-基于Python的理论与实现》
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 竞赛经历
+- “第十届中国大学生软件杯”全国二等奖（团体赛：队长） 
+- “第十四届iCAN国际创新创业大赛”全国二等奖（团体赛：主要成员）
+- “第三届算法设计与编程挑战赛”全国银奖（个人赛）
+- “第十二届蓝桥杯全国软件和信息技术专业人才大赛江西赛区”一等奖（个人赛）
+- “2021ICPC（ACM）江西省大学生程序设计” 铜奖（团体赛：队长）
+- “2021RobCom机器人开发者大赛区域赛” 三等奖（个人赛）
 
-```markdown
-Syntax highlighted code block
+### 项目经历
+- 疫情数据可视化与预测系统 <br>
+项目内容：搭建Hadoop完全分布式集群，将爬取到的疫情数据存储在HDFS中，利用Hive分析计算出截至日期的确诊人数、死亡人数、确诊病例，最多的州（以美国数据为例）。利用Sqoop将分析结果导出，搭建基于Spring Boot的web系统，利用echarts图表直观展示疫情相关数据与发展，趋势。<br>
+项目成就：担任队长一职，负责项目的整体架构设计、项目进度安排、人员工作分配等。带领团队成员通过预赛、全国半决赛的筛选，进入决赛
+（江西唯一一支队伍将进入全国总决赛名单），最终荣获全国二等奖。
+- 基于YOLOV3 + DeepSORT 的智能云交通系统 <br>
+项目内容：基于YOLOV3与DeepSORT算法对交通路口车辆与行人进行目标跟踪，实现对车辆不礼让行人、压线、闯红灯等违章行为检测。项目基于轻量化的Flask框架部署，实现对路口车辆的流量、违章信息的可视化展示。<b
+- 基于RESTEasy的在线五子棋对弈游戏设计<br>
+项目内容：基于RESTEasy、JQuery、WebSocket、Hibernate等框架，设计与实现了含用户管理、邀请玩家、在线博弈、悔棋、玩家观战、游戏复盘回放等多种功能的前后端交互Web项目
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Good-plus/Good-plus.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 学生工作
+- 班级学习委员
+- C语言程序设计 | 操作系统 | 计算机网络课程教学助手
